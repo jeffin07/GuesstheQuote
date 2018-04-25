@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GuesstheQuote</string>
+    <string name="start_game">Play</string>
+    <string name="high_score">Highscore - </string>
+</resources>
